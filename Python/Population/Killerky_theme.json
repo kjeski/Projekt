@@ -1,0 +1,38 @@
+{
+  "name": "Killerky Theme",
+  "dataColors": [
+    "#FF6F83",
+    "#FFA5B2",
+    "#FF8FA0",
+    "#3B3458",
+    "#1A1530",
+    "#FFFFFF"
+  ],
+  "background": "#1A1530",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#FF6F83",
+  "textClasses": {
+    "title": {
+      "fontSize": 16,
+      "fontFace": "Segoe UI",
+      "color": "#FF6F83"
+    },
+    "header": {
+      "fontSize": 12,
+      "fontFace": "Segoe UI",
+      "color": "#FFA5B2"
+    },
+    "label": {
+      "fontSize": 11,
+      "fontFace": "Segoe UI",
+      "color": "#FFFFFF"
+    },
+    "callout": {
+      "fontSize": 20,
+      "fontFace": "Segoe UI",
+      "color": "#FF6F83"
+    }
+  }
+}
+
+}
