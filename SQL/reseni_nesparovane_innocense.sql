@@ -1,5 +1,3 @@
-
-'''
 select *
 from DP_Sentences_Final
 --where name like N'
@@ -30,7 +28,7 @@ fp.Year_Exonerated - i.Exonerated
 fp.state_court / State_Exonerated - i.state
 fp.race_prisoner - i.race
 fp.Exoneration_Procedure - i.Exoneration_Procedure
-'''
+
 
 BEGIN TRAN
 
@@ -40,7 +38,7 @@ INSERT INTO Fact_Prisoner
     name,
     Year_Sentence,
     Year_Exonerated,
-    '''??? state_court / State_Exonerated ???''',
+    
     race_prisoner,
     Exoneration_Procedure
     )

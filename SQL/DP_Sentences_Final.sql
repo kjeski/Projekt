@@ -1,7 +1,5 @@
 --drop table DP_Sentences_Final
 
-
-
 SELECT
     CAST(Year AS INT) as Year,
     Name,
